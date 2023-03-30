@@ -1,0 +1,15 @@
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\bin\Debug\net6.0\EBBill.exe
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\bin\Debug\net6.0\EBBill.deps.json
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\bin\Debug\net6.0\EBBill.runtimeconfig.json
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\bin\Debug\net6.0\EBBill.dll
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\bin\Debug\net6.0\EBBill.pdb
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\EBBill.csproj.AssemblyReference.cache
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\EBBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\EBBill.AssemblyInfoInputs.cache
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\EBBill.AssemblyInfo.cs
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\EBBill.csproj.CoreCompileInputs.cache
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\EBBill.dll
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\refint\EBBill.dll
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\EBBill.pdb
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\EBBill.genruntimeconfig.cache
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\EBBill\obj\Debug\net6.0\ref\EBBill.dll

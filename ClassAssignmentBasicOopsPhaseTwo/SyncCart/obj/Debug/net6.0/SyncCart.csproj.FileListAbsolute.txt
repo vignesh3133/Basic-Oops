@@ -1,0 +1,15 @@
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\bin\Debug\net6.0\SyncCart.exe
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\bin\Debug\net6.0\SyncCart.deps.json
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\bin\Debug\net6.0\SyncCart.runtimeconfig.json
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\bin\Debug\net6.0\SyncCart.dll
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\bin\Debug\net6.0\SyncCart.pdb
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\SyncCart.csproj.AssemblyReference.cache
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\SyncCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\SyncCart.AssemblyInfoInputs.cache
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\SyncCart.AssemblyInfo.cs
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\SyncCart.csproj.CoreCompileInputs.cache
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\SyncCart.dll
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\refint\SyncCart.dll
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\SyncCart.pdb
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\SyncCart.genruntimeconfig.cache
+C:\Users\VigneshAnanthakumar\OneDrive - Syncfusion\Desktop\c#\HomeAssignment\BasicList\SyncCart\obj\Debug\net6.0\ref\SyncCart.dll
